@@ -15,3 +15,5 @@ Sloan, K., Ortolja-Baird, A., Nyhan, J., Pickering, V., & Fleming, M. (Eds.). (2
 ## Copyright
 
 British Museum digital images of Miscellanea: © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence 
+
+For complete documentation please download: [Git_Hub_Documentation.docx](https://github.com/sloanelab-org/HTR-Model/blob/main/Git_Hub_Documentation.docx)
