@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Sloane Lab HTR Model
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Marco
+    family-names: Humbel
+  - given-names: Andreas
+    family-names: Vlachidis
+  - family-names: Nyhan
+    given-names: Julianne
+  - name: The Trustees of the British Museum
+abstract: >-
+  This repository contains Handwritten Text Recognition
+  training data (layout segmentation and transcriptions) for
+  the Sloane Lab HTR model. 
+license: CC-BY-NC-SA-4.0
