@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-03-11T16:12:56.858Z</Created>
+        <LastChange>2023-04-24T17:46:56.836+02:00</LastChange>
+        <TranskribusMetadata docId="1360439" pageId="53217597" pageNr="95" tsid="119184813" status="GT" userId="10603" imgUrl="https://files.transkribus.eu/Get?id=SIKVWGNOXDIHNUGTBNKTFIMD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QSQTFTYUACDZJHNNGKAVMEOY" imageId="43210629"/>
+    </Metadata>
+    <Page imageFilename="0095_EPF108491066v.tif" imageWidth="4912" imageHeight="7360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1717685697167" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1128,743 4339,731 4339,3454 1128,3466"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1868,3160 1957,3178 2047,3178 2136,3172 2226,3172 2316,3172 2405,3166 2495,3160 2584,3166 2674,3166 2763,3166 2853,3166 2942,3160 3032,3160 3121,3160 3211,3160 3300,3160 3390,3160 3480,3166 3569,3166 3659,3172 3748,3166 3838,3166 3927,3166 4017,3166 4106,3172 4196,3172 4285,3172 4339,3172 4339,3222 4285,3222 4196,3222 4106,3222 4017,3216 3927,3216 3838,3216 3748,3216 3659,3222 3569,3216 3480,3216 3390,3210 3300,3210 3211,3210 3121,3210 3032,3210 2942,3210 2853,3216 2763,3216 2674,3216 2584,3216 2495,3210 2405,3216 2316,3222 2226,3222 2136,3222 2047,3228 1957,3228 1868,3210"/>
+                <Baseline points="1868,3205 1957,3223 2047,3223 2136,3217 2226,3217 2316,3217 2405,3211 2495,3205 2584,3211 2674,3211 2763,3211 2853,3211 2942,3205 3032,3205 3121,3205 3211,3205 3300,3205 3390,3205 3480,3211 3569,3211 3659,3217 3748,3211 3838,3211 3927,3211 4017,3211 4106,3217 4196,3217 4285,3217 4339,3217"/>
+                <TextEquiv>
+                    <Unicode>Gargoulis, ou Vaisseau of fumer, a l'usage des Orientaux.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1680530912266_468" custom="readingOrder {index:1;}">
+                <Coords points="1652,3165 1692,3169 1727,3169 1732,3169 1732,3219 1727,3219 1690,3219 1648,3215"/>
+                <Baseline points="1648,3210 1690,3214 1727,3214 1732,3214"/>
+                <TextEquiv>
+                    <Unicode>+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1874,3399 1892,3399 1981,3393 2071,3393 2160,3393 2250,3393 2339,3393 2429,3387 2518,3387 2608,3387 2698,3387 2787,3381 2877,3381 2966,3381 3056,3381 3145,3381 3235,3375 3324,3381 3414,3375 3503,3381 3593,3387 3682,3393 3772,3393 3862,3393 3862,3443 3772,3443 3682,3443 3593,3437 3503,3431 3414,3425 3324,3431 3235,3425 3145,3431 3056,3431 2966,3431 2877,3431 2787,3431 2698,3437 2608,3437 2518,3437 2429,3437 2339,3443 2250,3443 2160,3443 2071,3443 1981,3443 1892,3449 1874,3449"/>
+                <Baseline points="1874,3444 1892,3444 1981,3438 2071,3438 2160,3438 2250,3438 2339,3438 2429,3432 2518,3432 2608,3432 2698,3432 2787,3426 2877,3426 2966,3426 3056,3426 3145,3426 3235,3420 3324,3426 3414,3420 3503,3426 3593,3432 3682,3438 3772,3438 3862,3438"/>
+                <TextEquiv>
+                    <Unicode>des Orientaux. Biron P. 278</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gargoulis, ou Vaisseau of fumer, a l'usage des Orientaux.&#13;
++&#13;
+des Orientaux. Biron P. 278</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

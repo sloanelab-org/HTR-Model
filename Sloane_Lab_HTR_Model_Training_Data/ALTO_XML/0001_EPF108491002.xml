@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-03-11T16:12:47.641Z</Created>
+        <LastChange>2023-04-13T10:26:38.380+02:00</LastChange>
+        <TranskribusMetadata docId="1360439" pageId="53217493" pageNr="1" tsid="118419189" status="GT" userId="10603" imgUrl="https://files.transkribus.eu/Get?id=JNPILLZMAUFLMJCEOWVSPEOA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HNHUBHABCVVTNHOHBKZYAHNQ" imageId="43210526"/>
+    </Metadata>
+    <Page imageFilename="0001_EPF108491002.tif" imageWidth="4912" imageHeight="7360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1717685694164" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2089,928 4106,928 4106,1776 2089,1776"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2089,933 2178,933 2268,933 2357,939 2447,939 2536,945 2626,945 2715,957 2715,1007 2626,995 2536,995 2447,989 2357,989 2268,983 2178,983 2089,983"/>
+                <Baseline points="2089,978 2178,978 2268,978 2357,984 2447,984 2536,990 2626,990 2715,1002"/>
+                <TextEquiv>
+                    <Unicode>Miscellanies.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2166,1512 2232,1512 2322,1501 2411,1495 2501,1477 2590,1465 2680,1459 2769,1447 2859,1435 2948,1423 3038,1405 3127,1399 3217,1387 3306,1381 3396,1369 3486,1363 3575,1351 3665,1345 3754,1333 3844,1315 3933,1298 3933,1348 3844,1365 3754,1383 3665,1395 3575,1401 3486,1413 3396,1419 3306,1431 3217,1437 3127,1449 3038,1455 2948,1473 2859,1485 2769,1497 2680,1509 2590,1515 2501,1527 2411,1545 2322,1551 2232,1562 2166,1562"/>
+                <Baseline points="2166,1557 2232,1557 2322,1546 2411,1540 2501,1522 2590,1510 2680,1504 2769,1492 2859,1480 2948,1468 3038,1450 3127,1444 3217,1432 3306,1426 3396,1414 3486,1408 3575,1396 3665,1390 3754,1378 3844,1360 3933,1343"/>
+                <TextEquiv>
+                    <Unicode>N. B. from 96 to 105. ad veget. corall.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2626,1703 2715,1709 2805,1709 2895,1703 2984,1709 3074,1698 3163,1698 3253,1703 3342,1703 3432,1703 3521,1703 3611,1703 3700,1703 3790,1709 3879,1709 3969,1715 4059,1721 4106,1721 4106,1771 4059,1771 3969,1765 3879,1759 3790,1759 3700,1753 3611,1753 3521,1753 3432,1753 3342,1753 3253,1753 3163,1748 3074,1748 2984,1759 2895,1753 2805,1759 2715,1759 2626,1753"/>
+                <Baseline points="2626,1748 2715,1754 2805,1754 2895,1748 2984,1754 3074,1743 3163,1743 3253,1748 3342,1748 3432,1748 3521,1748 3611,1748 3700,1748 3790,1754 3879,1754 3969,1760 4059,1766 4106,1766"/>
+                <TextEquiv>
+                    <Unicode>909 to 920. Duplicates.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Miscellanies.&#13;
+N. B. from 96 to 105. ad veget. corall.&#13;
+909 to 920. Duplicates.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
