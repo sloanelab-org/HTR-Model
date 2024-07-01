@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-03-11T16:13:02.266Z</Created>
+        <LastChange>2023-04-28T17:17:56.706+02:00</LastChange>
+        <TranskribusMetadata docId="1360439" pageId="53217649" pageNr="146" tsid="120315298" status="GT" userId="10603" imgUrl="https://files.transkribus.eu/Get?id=YVFEIBNAVFYNBSDIOQEZRHSB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PCKGLPQQJGWVPUBIHLIJQMOB" imageId="43210681"/>
+    </Metadata>
+    <Page imageFilename="0146_EPF108491111v.tif" imageWidth="4912" imageHeight="7360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1717685698364" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="764,1155 4345,1155 4345,4516 764,4516"/>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="1319,4461 1372,4461 1462,4455 1551,4449 1641,4443 1731,4437 1820,4437 1910,4431 1999,4425 2089,4419 2178,4408 2178,4458 2089,4469 1999,4475 1910,4481 1820,4487 1731,4487 1641,4493 1551,4499 1462,4505 1372,4511 1319,4511"/>
+                <Baseline points="1319,4506 1372,4506 1462,4500 1551,4494 1641,4488 1731,4482 1820,4482 1910,4476 1999,4470 2089,4464 2178,4453 2212,4448 2232,4447 2267,4443 2291,4441 2331,4439 2367,4435 2399,4436 2438,4441 2513,4429 2567,4427 2622,4423 2660,4423 2696,4418 2734,4419 2783,4419 2852,4404 2882,4408 2955,4408 3022,4408 3088,4399 3140,4399 3206,4396 3245,4398 3278,4396 3318,4396 3390,4383 3428,4380 3485,4380 3534,4380 3592,4380 3645,4376 3697,4376 3760,4376 3830,4374 3899,4364 3947,4361 4003,4358 4061,4358 4128,4358 4173,4358 4212,4358 4264,4358 4293,4358"/>
+                <TextEquiv>
+                    <Unicode>1073. Carved figure in wood inclosed in folding tabernacle gilt &amp; lacquered</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="4136,4419 4166,4419 4256,4413 4345,4408 4345,4458 4256,4463 4166,4469 4136,4469"/>
+                <Baseline points="4136,4464 4166,4464 4256,4458 4345,4453"/>
+                <TextEquiv>
+                    <Unicode>H. 3 1/2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1073. Carved figure in wood inclosed in folding tabernacle gilt &amp; lacquered&#13;
+H. 3 1/2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

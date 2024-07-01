@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-03-11T16:13:05.037Z</Created>
+        <LastChange>2023-05-05T15:16:26.568+02:00</LastChange>
+        <TranskribusMetadata docId="1360439" pageId="53217674" pageNr="170" tsid="121114239" status="GT" userId="10603" imgUrl="https://files.transkribus.eu/Get?id=WLWLNJFMLNQCWOJQXFZDRCOX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MVHTZRTHRITZREVJHNDGSNPN" imageId="43210705"/>
+    </Metadata>
+    <Page imageFilename="0170_EPF108491131v.tif" imageWidth="4912" imageHeight="7360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1717685698849" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="644,1716 4279,1716 4279,3454 644,3454"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1247,2199 1337,2193 1426,2187 1516,2175 1605,2169 1695,2163 1784,2157 1874,2145 1963,2139 2053,2139 2142,2133 2232,2127 2322,2115 2411,2109 2501,2109 2590,2109 2680,2109 2769,2103 2859,2103 2948,2103 3038,2097 3127,2097 3217,2103 3306,2103 3396,2103 3486,2109 3575,2109 3665,2115 3754,2121 3844,2127 3933,2145 4023,2169 4112,2181 4202,2205 4279,2211 4279,2261 4202,2255 4112,2231 4023,2219 3933,2195 3844,2177 3754,2171 3665,2165 3575,2159 3486,2159 3396,2153 3306,2153 3217,2153 3127,2147 3038,2147 2948,2153 2859,2153 2769,2153 2680,2159 2590,2159 2501,2159 2411,2159 2322,2165 2232,2177 2142,2183 2053,2189 1963,2189 1874,2195 1784,2207 1695,2213 1605,2219 1516,2225 1426,2237 1337,2243 1247,2249"/>
+                <Baseline points="1247,2244 1337,2238 1426,2232 1516,2220 1605,2214 1695,2208 1784,2202 1874,2190 1963,2184 2053,2184 2142,2178 2232,2172 2322,2160 2411,2154 2501,2154 2590,2154 2680,2154 2769,2148 2859,2148 2948,2148 3038,2142 3127,2142 3217,2148 3306,2148 3396,2148 3486,2154 3575,2154 3665,2160 3754,2166 3844,2172 3933,2190 4023,2214 4112,2226 4202,2250 4279,2256"/>
+                <TextEquiv>
+                    <Unicode>## &amp; Marorla of Congo in Churchalls Collections</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1587,2372 1611,2366 1701,2372 1790,2366 1880,2360 1969,2354 2059,2354 2148,2348 2238,2348 2327,2336 2417,2336 2507,2336 2596,2342 2686,2342 2775,2342 2865,2342 2865,2392 2775,2392 2686,2392 2596,2392 2507,2386 2417,2386 2327,2386 2238,2398 2148,2398 2059,2404 1969,2404 1880,2410 1790,2416 1701,2422 1611,2416 1587,2422"/>
+                <Baseline points="1587,2417 1611,2411 1701,2417 1790,2411 1880,2405 1969,2399 2059,2399 2148,2393 2238,2393 2327,2381 2417,2381 2507,2381 2596,2387 2686,2387 2775,2387 2865,2387"/>
+                <TextEquiv>
+                    <Unicode>of Travels p. 695.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>## &amp; Marorla of Congo in Churchalls Collections&#13;
+of Travels p. 695.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

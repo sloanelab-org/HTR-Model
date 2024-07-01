@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-03-11T16:13:04.025Z</Created>
+        <LastChange>2023-05-03T17:31:55.508+02:00</LastChange>
+        <TranskribusMetadata docId="1360439" pageId="53217665" pageNr="161" tsid="120796358" status="GT" userId="10603" imgUrl="https://files.transkribus.eu/Get?id=FDDZTPTUDBWZLZBVJIEKZMQH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JOPNYVEJMRZEVEQWARXRCHRN" imageId="43210696"/>
+    </Metadata>
+    <Page imageFilename="0161_EPF108491124v.tif" imageWidth="4912" imageHeight="7360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1717685698719" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1396,6456 4578,6456 4578,6976 1396,6976"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1396,6562 1444,6568 1534,6568 1623,6574 1713,6580 1802,6586 1892,6592 1981,6598 2071,6598 2160,6604 2250,6604 2339,6610 2429,6616 2518,6616 2608,6622 2698,6622 2787,6622 2877,6622 2966,6622 3056,6610 3145,6604 3235,6592 3324,6586 3414,6586 3503,6580 3593,6574 3682,6568 3772,6562 3862,6556 3951,6550 4041,6539 4130,6527 4220,6515 4309,6503 4399,6485 4488,6467 4578,6461 4578,6511 4488,6517 4399,6535 4309,6553 4220,6565 4130,6577 4041,6589 3951,6600 3862,6606 3772,6612 3682,6618 3593,6624 3503,6630 3414,6636 3324,6636 3235,6642 3145,6654 3056,6660 2966,6672 2877,6672 2787,6672 2698,6672 2608,6672 2518,6666 2429,6666 2339,6660 2250,6654 2160,6654 2071,6648 1981,6648 1892,6642 1802,6636 1713,6630 1623,6624 1534,6618 1444,6618 1396,6612"/>
+                <Baseline points="1396,6607 1444,6613 1534,6613 1623,6619 1713,6625 1802,6631 1892,6637 1981,6643 2071,6643 2160,6649 2250,6649 2339,6655 2429,6661 2518,6661 2608,6667 2698,6667 2787,6667 2877,6667 2966,6667 3056,6655 3145,6649 3235,6637 3324,6631 3414,6631 3503,6625 3593,6619 3682,6613 3772,6607 3862,6601 3951,6595 4041,6584 4130,6572 4220,6560 4309,6548 4399,6530 4488,6512 4578,6506"/>
+                <TextEquiv>
+                    <Unicode>X Flambeau apelle Damar, fait de gomme odorante,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1593,6724 1677,6724 1766,6730 1856,6730 1945,6735 2035,6741 2125,6741 2214,6747 2304,6753 2393,6759 2483,6765 2572,6771 2662,6771 2751,6771 2841,6771 2930,6777 3020,6771 3109,6765 3199,6765 3289,6759 3378,6753 3468,6747 3557,6747 3647,6741 3736,6735 3826,6730 3915,6730 4005,6718 4094,6706 4184,6688 4273,6676 4363,6658 4453,6634 4453,6684 4363,6708 4273,6726 4184,6738 4094,6756 4005,6768 3915,6780 3826,6780 3736,6785 3647,6791 3557,6797 3468,6797 3378,6803 3289,6809 3199,6815 3109,6815 3020,6821 2930,6827 2841,6821 2751,6821 2662,6821 2572,6821 2483,6815 2393,6809 2304,6803 2214,6797 2125,6791 2035,6791 1945,6785 1856,6780 1766,6780 1677,6774 1593,6774"/>
+                <Baseline points="1593,6769 1677,6769 1766,6775 1856,6775 1945,6780 2035,6786 2125,6786 2214,6792 2304,6798 2393,6804 2483,6810 2572,6816 2662,6816 2751,6816 2841,6816 2930,6822 3020,6816 3109,6810 3199,6810 3289,6804 3378,6798 3468,6792 3557,6792 3647,6786 3736,6780 3826,6775 3915,6775 4005,6763 4094,6751 4184,6733 4273,6721 4363,6703 4453,6679"/>
+                <TextEquiv>
+                    <Unicode>dont les Orientaux de Condition se sont eclairer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1575,6897 1665,6891 1754,6891 1844,6897 1934,6897 2023,6897 2113,6897 2202,6897 2292,6903 2381,6915 2471,6921 2560,6921 2638,6915 2638,6965 2560,6971 2471,6971 2381,6965 2292,6953 2202,6947 2113,6947 2023,6947 1934,6947 1844,6947 1754,6941 1665,6941 1575,6947"/>
+                <Baseline points="1575,6942 1665,6936 1754,6936 1844,6942 1934,6942 2023,6942 2113,6942 2202,6942 2292,6948 2381,6960 2471,6966 2560,6966 2638,6960"/>
+                <TextEquiv>
+                    <Unicode>Biron p. 280.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>X Flambeau apelle Damar, fait de gomme odorante,&#13;
+dont les Orientaux de Condition se sont eclairer&#13;
+Biron p. 280.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
