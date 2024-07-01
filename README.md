@@ -1,4 +1,4 @@
-# HTR-Model
+# HTR Model
 
 ## Description
 
